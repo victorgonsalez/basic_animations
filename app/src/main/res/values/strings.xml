@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Dojo Animation</string>
+    <string name="anticipate_interpolator">Anticipate Interpolator</string>
+    <string name="accelerate_interpolator">Accelerate Interpolator</string>
+    <string name="decelerate_interpolator">Decelerate Interpolator</string>
+    <string name="accelerate_decelerate_interpolator">Accelerate Decelerate Interpolator</string>
+    <string name="cycle_interpolator">Cycle Interpolator</string>
+    <string name="do_magic">Do Magic</string>
+    <string name="tap_on_image">Toque na imagem</string>
+    <string name="tap_on_icon">Toque no icone</string>
+    <string name="using_interpolator_to_button">Usando interpolator para botao</string>
+    <string name="scale_image_view">Escalar Image View</string>
+    <string name="rotate_image_view">Rotacionar Image View</string>
+
+</resources>
